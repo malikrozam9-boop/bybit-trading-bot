@@ -13,7 +13,7 @@ exchange = ccxt.bybit({
 
 SYMBOL = 'BTC/USDT'     # Aap yahan apna coin badal sakte hain (jaise 'SOL/USDT')
 TIMEFRAME = '15m'       
-INVESTMENT_USDT = 20    # Yahan aap apna investment amount set kar rahe hain (e.g., 20 USDT)
+INVESTMENT_USDT = 9.01    # Yahan aap apna investment amount set kar rahe hain (e.g., 20 USDT)
 ATR_LEN = 10
 TRAINING_PERIOD = 100
 
