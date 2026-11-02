@@ -1,2 +1,7 @@
 ccxt
 pandas
+numpy
+requests
+urllib3
+python-dotenv
+aiohttp
